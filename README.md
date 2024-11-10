@@ -46,7 +46,7 @@ Just type or paste any text into the input field, and the app will summarize it 
 
 ## 📈 Demo
 
-Check out the app in action : demo or screenshot if available.
+Check out the app in action : demo or screenshot is available.
 
 ![image](https://github.com/user-attachments/assets/be45eb5f-0996-48ab-9715-f0ea5d04dea3)
 
